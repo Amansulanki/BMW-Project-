@@ -1,1 +1,1 @@
-# BMW-Project-
+This project provides an end-to-end exploratory data analysis (EDA) of BMW car sales data from 2010 to 2024. The analysis is performed in Python using Pandas and Matplotlib, covering data cleaning, preprocessing, and multiple visual insights to understand trends across models, colors, fuel types, transmission types, mileage, and pricing.
